@@ -4,7 +4,7 @@
 
 (define build-deps '("base"))
 
-(define update-implies '("dalls-lib"))
+(define update-implies '("dallas-lib"))
 
 (define pkg-desc "Tests for Dallas")
 
